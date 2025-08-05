@@ -1,4 +1,4 @@
-## Hello Folks 👋
+![Header](./github-header-banner.png)
 
 <h2> :purple_heart: &nbsp;Short intro about me</h2>
 
@@ -16,3 +16,11 @@ fields_of_interests:
 
 hobbies: ["Cycling", "MTB", "Bike Fixing", "Digital Art", "Silkscreen Printing"]
 ```
+---
+<h2> :magic_wand: My most used tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,cs,react,sass,unity,ts,py,mysql,nodejs,js,ai,figma,ps&&perline=5 " />
+  </a>
+</p>

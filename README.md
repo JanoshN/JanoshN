@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello Folks 👋
 
-<!--
-**JanoshN/JanoshN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> :purple_heart: &nbsp;Short intro about me</h2>
 
-Here are some ideas to get you started:
+```yaml
+name: Janna Niemi
+located_in: Jyväskylä, Finland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Testing",
+    "Databases"
+  ]
+
+hobbies: ["Cycling", "MTB", "Bike Fixing", "Digital Art", "Silkscreen Printing"]
+```

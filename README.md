@@ -21,6 +21,6 @@ hobbies: ["Cycling", "MTB", "Bike Fixing", "Digital Art", "Silkscreen Printing"]
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,html,cs,react,sass,unity,ts,py,mysql,nodejs,js,ai,figma,ps&&perline=5 " />
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,react,sass,tailwind,ts,nodejs,js,py,mysql,cs,figma,ai,ps&&perline=5 " />
   </a>
 </p>
